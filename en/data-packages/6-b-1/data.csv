@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2023,Normal value,Units,Local_Authority_By_Laws,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1],,Percent,100

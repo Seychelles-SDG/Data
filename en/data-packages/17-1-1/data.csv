@@ -1,1 +1,12 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,17.77
+2016,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,15.75
+2017,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,5.62
+2018,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,7.35
+2019,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,10.83
+2020,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.27
+2021,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,15.35
+2022,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,16.62
+2023,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,14.65
+2024,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,18.65
+2025,Normal value,Units,MOFEDIP,Total government revenue as a proportion of GDP [17.1.1],,Percent,19.16

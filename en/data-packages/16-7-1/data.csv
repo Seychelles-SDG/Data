@@ -1,1 +1,4 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2024,Normal value,Units,PARLIAMENT,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court [16.7.1]",,,Number,359
+2024,Normal value,Units,PARLIAMENT,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court [16.7.1]",,Female,Percent,35
+2024,Normal value,Units,PARLIAMENT,"Proportions of positions in the judiciary compared to national distributions, Constitutional Court [16.7.1]",,Male,Percent,65

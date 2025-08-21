@@ -1,1 +1,15 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2010,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,19.7
+2011,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,14.2
+2012,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,16.7
+2013,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,2.0
+2014,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,2.4
+2015,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,1.8
+2016,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,0.8
+2017,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,4.7
+2018,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,4.8
+2019,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,-6.3
+2020,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,-7.8
+2021,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,8.5
+2022,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,7.4
+2023,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,5.3

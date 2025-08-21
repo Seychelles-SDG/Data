@@ -1,1 +1,12 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,3.53
+2016,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,3.78
+2017,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,2.6
+2018,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,4.2
+2019,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,4.3
+2020,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,2.3
+2021,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,2.5
+2022,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,5.2
+2023,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,6.2
+2024,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,1.89
+2025,Normal value,Units,ZIMSTAT_National_Accounts,Tourism direct GDP as a proportion of total GDP [8.9.1],,Percent,1.84

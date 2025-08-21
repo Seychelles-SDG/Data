@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2024,Normal value,Units,Compliance_documents_available_CCMD,Number of countries with national adaptation plans [13.2.1],,Boolean or binary measure,1

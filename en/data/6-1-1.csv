@@ -1,1 +1,6 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2019,Normal value,Units,ZDHS_2023_24,Proportion of population using safely managed drinking water services [6.1.1],,Percent,77.1
+2022,Normal value,Units,ZDHS_2023_24,Proportion of population using safely managed drinking water services [6.1.1],,Percent,77.8
+2023,Normal value,Units,ZDHS_2023_24,Proportion of population using safely managed drinking water services [6.1.1],,Percent,78.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population using safely managed drinking water services [6.1.1],,Percent,72.4
+2025,Normal value,Units,ZDHS_2023_24,Proportion of population using safely managed drinking water services [6.1.1],,Percent,72.4

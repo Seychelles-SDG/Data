@@ -1,1 +1,12 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,98.99
+2016,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,99.34
+2017,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,94.71
+2018,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,94.7
+2019,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,98.0
+2020,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,98.0
+2021,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,99.35
+2022,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,100.0
+2023,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,100.0
+2024,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,100.0
+2025,Normal value,Units,MOFEDIP,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,100.0

@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,15 to 49 years old,Percent,0.1

@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2024,Normal value,Units,CMMD_reports,Number of least developed countries and small island developing States with national adaptation plans (Number) [13.b.1],,Boolean or binary measure,1

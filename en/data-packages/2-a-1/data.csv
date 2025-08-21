@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2021,Normal value,Units,MOFEDIP,Agriculture orientation index for government expenditures [2.a.1],,Index,1.78
+2022,Normal value,Units,MOFEDIP,Agriculture orientation index for government expenditures [2.a.1],,Index,1.51
+2023,Normal value,Units,MOFEDIP,Agriculture orientation index for government expenditures [2.a.1],,Index,0.67
+2024,Normal value,Units,MOFEDIP,Agriculture orientation index for government expenditures [2.a.1],,Index,1.58

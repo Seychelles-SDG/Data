@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2023,Normal value,Units,GOZ,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Percent,22

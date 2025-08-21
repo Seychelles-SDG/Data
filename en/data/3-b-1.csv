@@ -1,1 +1,58 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Value
+2019,Normal value,Units,Zimstat_MICS_2019,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,,,Percent,91.0
+2019,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,,Percent,91.0
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,,Percent,81.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,Rural,Percent,81.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,Urban,Percent,82.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Bulawayo,12 to 23 months,,Percent,86.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Harare,12 to 23 months,,Percent,84.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Manicaland,12 to 23 months,,Percent,73.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Mashonaland Central,12 to 23 months,,Percent,80.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Masholanad East,12 to 23 months,,Percent,81.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Midlands,12 to 23 months,,Percent,89.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Matabeland North,12 to 23 months,,Percent,88.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Matabeland South,12 to 23 months,,Percent,86.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Masvingo,12 to 23 months,,Percent,87.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],Mashonaland West,12 to 23 months,,Percent,74.2
+2019,Normal value,Units,Zimstat_MICS_2019,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],,,,Percent,68.4
+2019,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],,24 to 35 months,,Percent,68.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],,24 to 35 months,,Percent,70.5
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],,24 to 35 months,Rural,Percent,76.1
+2024,Normal value,Units,ZDHS 2023-24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],,24 to 35 months,Urban,Percent,76.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Bulawayo,24 to 35 months,,Percent,81.1
+2024,Normal value,Units,ZDHS 2023-24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Harare,24 to 35 months,,Percent,78.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Harare,24 to 35 months,Urban,Percent,78.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Manicaland,24 to 35 months,,Percent,55.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Mashonaland Central,24 to 35 months,,Percent,68.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Masholanad East,24 to 35 months,,Percent,72.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Midlands,24 to 35 months,,Percent,74.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Matabeland North,24 to 35 months,,Percent,85.2
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Matabeland South,24 to 35 months,,Percent,66.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Masvingo,24 to 35 months,,Percent,65.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],Mashonaland West,24 to 35 months,,Percent,66.3
+2019,Normal value,Units,Zimstat_MICS_2019,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],,,,Percent,90.6
+2019,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],,12 to 23 months,,Percent,90.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],,12 to 23 months,,Percent,80.3
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],,12 to 23 months,Rural,Percent,80.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],,12 to 23 months,Urban,Percent,80.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Bulawayo,12 to 23 months,,Percent,86.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Harare,12 to 23 months,,Percent,82.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Manicaland,12 to 23 months,,Percent,73.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Mashonaland Central,12 to 23 months,,Percent,79.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Masholanad East,12 to 23 months,,Percent,79.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Midlands,12 to 23 months,,Percent,87.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Matabeland North,12 to 23 months,,Percent,89.0
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Matabeland South,12 to 23 months,,Percent,85.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Masvingo,12 to 23 months,,Percent,85.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],Mashonaland West,12 to 23 months,,Percent,71.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,24 to 35 months,,Percent,54.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Bulawayo,24 to 35 months,,Percent,77.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Harare,24 to 35 months,,Percent,92.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Manicaland,24 to 35 months,,Percent,38.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Mashonaland Central,24 to 35 months,,Percent,37.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Masholanad East,24 to 35 months,,Percent,43.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Midlands,24 to 35 months,,Percent,58.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Matabeland North,24 to 35 months,,Percent,65.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Matabeland South,24 to 35 months,,Percent,60.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Masvingo,24 to 35 months,,Percent,49.0
+2024,Normal value,Units,DHIS2_2024,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],Mashonaland West,24 to 35 months,,Percent,44.0

@@ -1,1 +1,17 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Value
+2015,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,,Percent,86.0
+2021,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,,Percent,87.5
+2023,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,,Percent,84.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,,Percent,87.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,Rural,Percent,85.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,Urban,Percent,89.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Bulawayo,Female,15 to 49 years old,,Percent,82.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Harare,Female,15 to 49 years old,,Percent,90.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Manicaland,Female,15 to 49 years old,,Percent,81.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Mashonaland Central,Female,15 to 49 years old,,Percent,89.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Masholanad East,Female,15 to 49 years old,,Percent,90.3
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Midlands,Female,15 to 49 years old,,Percent,87.3
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Matabeland North,Female,15 to 49 years old,,Percent,89.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Matabeland South,Female,15 to 49 years old,,Percent,87.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Masvingo,Female,15 to 49 years old,,Percent,84.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],Mashonaland West,Female,15 to 49 years old,,Percent,87.1

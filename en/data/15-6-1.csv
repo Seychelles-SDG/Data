@@ -1,1 +1,9 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2014,Normal value,Units,MoETHI,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",,Boolean or binary measure,1
+2015,Normal value,Units,MoETHI,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",,Boolean or binary measure,1
+2016,Normal value,Units,MoETHI,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",,Boolean or binary measure,1
+2017,Normal value,Units,MoETHI,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",,Boolean or binary measure,1
+2018,Normal value,Units,MoETHI,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",,Boolean or binary measure,1
+2019,Normal value,Units,MoETHI,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",,Boolean or binary measure,1
+2020,Normal value,Units,MoETHI,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",,Boolean or binary measure,1
+2021,Normal value,Units,MoETHI,"Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO) [15.6.1]",,Boolean or binary measure,1

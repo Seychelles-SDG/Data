@@ -1,1 +1,21 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,Education level,UNIT_MEASURE,Value
+2019,Normal value,Units,ZDHS_2023_24,Under-five mortality rate [3.2.1],,,,,"Per 1,000 live births",65.0
+2022,Normal value,Units,ZDHS_2023_24,Under-five mortality rate [3.2.1],,,,,"Per 1,000 live births",39.7
+2024,Normal value,Units,ZDHS_2023_24,Under-five mortality rate [3.2.1],,,,,"Per 1,000 live births",69.0
+2024,Normal value,Units,ZDHS_2023_24,Under-five mortality rate [3.2.1],,,Rural,,"Per 1,000 live births",71.0
+2024,Normal value,Units,ZDHS_2023_24,Under-five mortality rate [3.2.1],,,Urban,,"Per 1,000 live births",66.0
+2024,Normal value,Units,ZDHS_2023_24,Under-five mortality rate [3.2.1],,Female,,,"Per 1,000 live births",61.0
+2024,Normal value,Units,ZDHS_2023_24,Under-five mortality rate [3.2.1],,Male,,,"Per 1,000 live births",77.0
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Bulawayo,,,,"Per 1,000 live births",27.8
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Harare,,,,"Per 1,000 live births",32.5
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Manicaland,,,,"Per 1,000 live births",50.8
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Mashonaland Central,,,,"Per 1,000 live births",41.6
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Mashonaland Central,,,Pre-primary education,"Per 1,000 live births",41.6
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Masholanad East,,,,"Per 1,000 live births",47.5
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Masholanad East,,,Primary education,"Per 1,000 live births",47.5
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Midlands,,,,"Per 1,000 live births",41.7
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Matabeland North,,,,"Per 1,000 live births",30.2
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Matabeland South,,,,"Per 1,000 live births",26.5
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Masvingo,,,,"Per 1,000 live births",41.5
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Mashonaland West,,,,"Per 1,000 live births",36.3
+2022,Normal value,Units,Zimstat_2022_PHC,Under-five mortality rate [3.2.1],Mashonaland West,,,Lower secondary education,"Per 1,000 live births",36.3

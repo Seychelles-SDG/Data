@@ -1,1 +1,9 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Education level,UNIT_MEASURE,Value
+2019,Normal value,Units,Min_primany_secondary_EMIS_2021,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,,Percent,58.8
+2020,Normal value,Units,Min_primany_secondary_EMIS_2021,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,,Percent,97.1
+2021,Normal value,Units,Min_primany_secondary_EMIS_2021,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,,Percent,85.5
+2019,Normal value,Units,Min_primany_secondary_EMIS_2019,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,58.8
+2019,Normal value,Units,Min_primany_secondary_EMIS_2024,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Primary education,Percent,97.1
+2024,Normal value,Units,Min_primany_secondary_EMIS_2024,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Primary education,Percent,97.88
+2019,Normal value,Units,Min_primany_secondary_EMIS_2024,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Lower secondary education,Percent,85.5
+2024,Normal value,Units,Min_primany_secondary_EMIS_2024,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Lower secondary education,Percent,91.03

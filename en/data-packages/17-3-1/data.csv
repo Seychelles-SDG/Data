@@ -1,1 +1,12 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,2.0
+2016,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,1.67
+2017,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,1.41
+2018,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,3.04
+2019,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,0.96
+2020,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,0.57
+2021,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,0.86
+2022,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,1.03
+2023,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,1.6
+2024,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,1.33
+2025,Normal value,Units,MOFEDIP,Foreign direct investment (FDI) inflows [17.3.1],,Percent,1.35

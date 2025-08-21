@@ -1,1 +1,18 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
+2019,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,81.0
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,78.7
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Rural,Percent,76.1
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Urban,Percent,83.7
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,,Percent,78.8
+2022,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,,Percent,67.0
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,,Percent,78.6
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Bulawayo,,,Percent,89.1
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Harare,,,Percent,83.7
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Manicaland,,,Percent,77.8
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Mashonaland Central,,,Percent,67.6
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Masholanad East,,,Percent,84.0
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Midlands,,,Percent,76.7
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Matabeland North,,,Percent,86.2
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Matabeland South,,,Percent,94.0
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Masvingo,,,Percent,78.1
+2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],Mashonaland West,,,Percent,69.0

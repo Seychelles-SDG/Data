@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2019,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,,Percent,64.2
+2022,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,,Percent,68.7
+2023,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,,Percent,78.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,,Percent,45.5
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,42.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,50.7

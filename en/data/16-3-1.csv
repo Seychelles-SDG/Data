@@ -1,1 +1,6 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2022,Normal value,Units,ZIMSTAT,"Police reporting rate for robbery in the previous 12 months, by sex (%) [16.3.1]",,,Percent,32000000000.0
+2023,Normal value,Units,ZIMSTAT,"Police reporting rate for robbery in the previous 12 months, by sex (%) [16.3.1]",,,Percent,23.0
+2024,Normal value,Units,ZIMSTAT,"Police reporting rate for robbery in the previous 12 months, by sex (%) [16.3.1]",,,Percent,22.6
+2019,Normal value,Units,Zimstat_MICS_2019,"Police reporting rate for robbery in the previous 12 months, by sex (%) [16.3.1]",,Female,Percent,40.5
+2019,Normal value,Units,Zimstat_MICS_2019,"Police reporting rate for robbery in the previous 12 months, by sex (%) [16.3.1]",,Male,Percent,38.2

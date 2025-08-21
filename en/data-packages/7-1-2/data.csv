@@ -1,1 +1,28 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2017,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,21.6
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,33.7
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,61.936167437294046
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Rural,Percent,7.7
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Rural,Percent,55.65878871101471
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Urban,Percent,83.2
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Urban,Percent,70.79708533995965
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Bulawayo,,Percent,85.6
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Bulawayo,,Percent,94.0933010992187
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Harare,,Percent,87.2
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Harare,,Percent,88.12671475002564
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Manicaland,,Percent,18.1
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Manicaland,,Percent,50.54971265075429
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Mashonaland Central,,Percent,11.3
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Mashonaland Central,,Percent,51.37132481069131
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Masholanad East,,Percent,19.7
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Masholanad East,,Percent,56.75936229219795
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Midlands,,Percent,31.2
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Midlands,,Percent,58.30603044542835
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Matabeland North,,Percent,10.1
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Matabeland North,,Percent,42.421770056245066
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Matabeland South,,Percent,20.0
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Matabeland South,,Percent,45.84930713496731
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Masvingo,,Percent,16.4
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Masvingo,,Percent,57.15525364300525
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Mashonaland West,,Percent,23.9
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],Mashonaland West,,Percent,60.45453822724261

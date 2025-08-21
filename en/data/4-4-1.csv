@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2019,Normal value,Units,Zimstat_MICS_2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],,Female,15 to 24 years old,Percent,14.7
+2019,Normal value,Units,Zimstat_MICS_2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],,Female,15 to 49 years old,Percent,13.1
+2019,Normal value,Units,Zimstat_MICS_2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],,Male,15 to 24 years old,Percent,21.6
+2019,Normal value,Units,Zimstat_MICS_2019,Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1],,Male,15 to 49 years old,Percent,22.3

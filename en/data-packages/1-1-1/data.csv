@@ -1,7 +1,45 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Value
+2011,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,,Percent,21.6
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,,Percent,34.2
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,,Percent,39.8
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,Rural,Percent,47.92728
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,Rural,Percent,52.61328
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,Urban,Percent,4.78471
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,Urban,Percent,10.98269
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,65 years old and over,,Percent,29.6625
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,65 years old and over,,Percent,33.05316
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,Under 16 years old,,Percent,41.19563
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,Under 16 years old,,Percent,47.24313
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,15 to 64 years old,,Percent,29.73578
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,15 to 64 years old,,Percent,34.9821
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,Female,,,Percent,34.27809
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,Female,,,Percent,39.44854
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,Male,,,Percent,34.54693
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,Male,,,Percent,40.08752
+2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,15 years old and over,,Percent,19.23
+2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,15 years old and over,,Percent,30.53
+2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,15 years old and over,,Percent,35.63
+2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,25 years old and over,,Percent,16.83
+2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,25 years old and over,,Percent,27.88
+2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,25 years old and over,,Percent,33.2
+2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,15 to 24 years old,,Percent,25.93
+2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,15 to 24 years old,,Percent,38.48
+2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,15 to 24 years old,,Percent,43.05
+2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Female,15 years old and over,,Percent,20.04
+2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Female,15 years old and over,,Percent,32.79
+2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Female,15 years old and over,,Percent,38.53
+2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Female,25 years old and over,,Percent,19.12
+2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Female,25 years old and over,,Percent,31.97
+2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Female,25 years old and over,,Percent,37.92
+2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Female,15 to 24 years old,,Percent,22.99
+2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Female,15 to 24 years old,,Percent,35.68
+2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Female,15 to 24 years old,,Percent,40.73
+2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Male,15 years old and over,,Percent,18.42
+2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Male,15 years old and over,,Percent,28.23
+2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Male,15 years old and over,,Percent,32.65
+2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Male,25 years old and over,,Percent,14.37
+2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Male,25 years old and over,,Percent,23.38
+2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Male,25 years old and over,,Percent,27.92
+2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Male,15 to 24 years old,,Percent,28.31
+2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Male,15 to 24 years old,,Percent,40.72
+2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,Male,15 to 24 years old,,Percent,44.89

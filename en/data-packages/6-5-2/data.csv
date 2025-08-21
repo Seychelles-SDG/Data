@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2020,Normal value,Units,Min_of_Agric,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],,Percent,69.9

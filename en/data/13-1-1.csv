@@ -1,1 +1,8 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2019,Normal value,Units,UNDRR_CPU,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",,Number,702363
+2017,Normal value,Units,MLGPWNH,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,158
+2019,Normal value,Units,MLGPWNH,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,344
+2023,Normal value,Units,MLGPWNH,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,237
+2017,Normal value,Units,MLGPWNH_CPU,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",158
+2023,Normal value,Units,MLGPWNH_CPU,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",237
+2019,Normal value,Units,UNDRR_CPU,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,344

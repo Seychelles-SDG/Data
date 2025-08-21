@@ -1,1 +1,36 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2023,Normal value,Units,ZIMSTAT,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,,15 to 24 years old,Percent,45.4
+2024,Normal value,Units,ZIMSTAT,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,,15 to 24 years old,Percent,27.9
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,Female,15 to 24 years old,Percent,51.1
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,Male,15 to 24 years old,Percent,39.8
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Bulawayo,,15 to 24 years old,Percent,39.798601920029824
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Bulawayo,Female,15 to 24 years old,Percent,42.36789642565211
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Bulawayo,Male,15 to 24 years old,Percent,36.59796352101081
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Harare,,15 to 24 years old,Percent,37.68083539198772
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Harare,Female,,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Harare,Female,15 to 24 years old,Percent,42.20754433815757
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Harare,Male,15 to 24 years old,Percent,32.126076064404224
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Manicaland,,15 to 24 years old,Percent,45.4659656632392
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Manicaland,Female,15 to 24 years old,Percent,49.93627981408934
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Manicaland,Male,15 to 24 years old,Percent,41.10512449129034
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Mashonaland Central,,15 to 24 years old,Percent,47.41867891637377
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Mashonaland Central,Female,15 to 24 years old,Percent,55.835960087233296
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Mashonaland Central,Male,15 to 24 years old,Percent,40.265448567655696
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Masholanad East,,15 to 24 years old,Percent,43.76511990649829
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Masholanad East,Female,15 to 24 years old,Percent,51.54889102087138
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Masholanad East,Male,15 to 24 years old,Percent,36.41777059728848
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Midlands,,15 to 24 years old,Percent,46.79541641495194
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Midlands,Female,15 to 24 years old,Percent,51.42363981576533
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Midlands,Male,15 to 24 years old,Percent,42.27888636438474
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Matabeland North,,15 to 24 years old,Percent,57.92165070469112
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Matabeland North,Female,15 to 24 years old,Percent,63.98608221156582
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Matabeland North,Male,15 to 24 years old,Percent,53.089171078117616
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Matabeland South,,15 to 24 years old,Percent,52.13311120095665
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Matabeland South,Female,15 to 24 years old,Percent,59.487885725705205
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Matabeland South,Male,15 to 24 years old,Percent,43.33612590649674
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Masvingo,,15 to 24 years old,Percent,44.83690054101584
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Masvingo,Female,15 to 24 years old,Percent,51.49580059565197
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Masvingo,Male,15 to 24 years old,Percent,38.49332781342717
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Mashonaland West,,15 to 24 years old,Percent,49.479182367932
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Mashonaland West,Female,15 to 24 years old,Percent,57.33022904133568
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Mashonaland West,Male,15 to 24 years old,Percent,42.50605296944796

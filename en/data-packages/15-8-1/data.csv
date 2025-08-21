@@ -1,1 +1,4 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2022,Normal value,Units,MoETHI,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]",,Boolean or binary measure,1
+2023,Normal value,Units,MoETHI,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]",,Boolean or binary measure,1
+2024,Normal value,Units,MoETHI,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]",,Boolean or binary measure,1

@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2020,Normal value,Units,EMA,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,66.67
+2022,Normal value,Units,EMA,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,94.78
+2023,Normal value,Units,EMA,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,89.26
+2024,Normal value,Units,EMA,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,94.95

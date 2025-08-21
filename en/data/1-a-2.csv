@@ -1,1 +1,19 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2014,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,36.65662518834542
+2015,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,40.37658878345459
+2016,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,32.5914871233359
+2017,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,32.5914871233359
+2022,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,0.32
+2023,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,0.29
+2022,Normal value,Units,ZIMSTAT_National_Accounts,"Proportion of total government spending on essential services, education [1.a.2]",,Percent,17.6
+2023,Normal value,Units,ZIMSTAT_National_Accounts,"Proportion of total government spending on essential services, education [1.a.2]",,Percent,8.82
+2024,Normal value,Units,ZIMSTAT_National_Accounts,"Proportion of total government spending on essential services, education [1.a.2]",,Percent,20.82
+2022,Normal value,Units,MOFEDIP,Proportion of total government spending on essential services [1.a.2],,Percent,27.3
+2023,Normal value,Units,MOFEDIP,Proportion of total government spending on essential services [1.a.2],,Percent,14.73
+2024,Normal value,Units,MOFEDIP,Proportion of total government spending on essential services [1.a.2],,Percent,33.72
+2022,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,8.35
+2023,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,5.29
+2024,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,12.86
+2022,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,1.42
+2023,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,0.62
+2024,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,0.04

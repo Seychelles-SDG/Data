@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2014,Normal value,Units,ZIMSTAT_TSR_2024,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",14.46
+2015,Normal value,Units,ZIMSTAT_TSR_2024,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",16.77
+2016,Normal value,Units,ZIMSTAT_TSR_2024,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",11.21
+2017,Normal value,Units,ZIMSTAT_TSR_2024,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",12.69
+2018,Normal value,Units,ZIMSTAT_TSR_2024,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",13.58
+2024,Normal value,Units,ZIMSTAT_TSR_2024,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",13.45

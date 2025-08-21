@@ -1,1 +1,9 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2016,Normal value,Units,ZIMSTAT_MoPSLSF,Employed persons in the tourism industries (number) [8.9.2],,Percent,18.631
+2017,Normal value,Units,ZIMSTAT_MoPSLSF,Employed persons in the tourism industries (number) [8.9.2],,Percent,18.478
+2018,Normal value,Units,ZIMSTAT_MoPSLSF,Employed persons in the tourism industries (number) [8.9.2],,Percent,18.38825
+2019,Normal value,Units,ZIMSTAT_MoPSLSF,Employed persons in the tourism industries (number) [8.9.2],,Percent,18.2715
+2020,Normal value,Units,ZIMSTAT_MoPSLSF,Employed persons in the tourism industries (number) [8.9.2],,Percent,8.47825
+2021,Normal value,Units,ZIMSTAT_MoPSLSF,Employed persons in the tourism industries (number) [8.9.2],,Percent,8.12175
+2022,Normal value,Units,ZIMSTAT_MoPSLSF,Employed persons in the tourism industries (number) [8.9.2],,Percent,9.05275
+2023,Normal value,Units,ZIMSTAT_MoPSLSF,Employed persons in the tourism industries (number) [8.9.2],,Percent,9.5885

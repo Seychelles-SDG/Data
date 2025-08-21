@@ -1,1 +1,3 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2017,Normal value,Units,Public_Service_Commision,Proportion of population who say that overall they are satisfied with the quality of government services [16.6.2],,Percent,60.0
+2024,Normal value,Units,Public_Service_Commision,Proportion of population who say that overall they are satisfied with the quality of government services [16.6.2],,Percent,70.81

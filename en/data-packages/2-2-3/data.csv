@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",,,Urban,Percent,41.2
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",,Female,Urban,Percent,41.2
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",,,Urban,Percent,50.7
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",,Female,Urban,Percent,50.7

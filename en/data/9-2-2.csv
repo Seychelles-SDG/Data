@@ -1,1 +1,15 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2014,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,4.0
+2016,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,11.527485371766415
+2017,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,10.964386733095884
+2018,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,11.373394386211809
+2019,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,10.12757620435614
+2020,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,9.51522880398604
+2021,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,10.047206441014144
+2022,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,10.032730728170716
+2023,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,10.429904563758594
+2024,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,9.791800821204506
+2025,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,1.2
+2026,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,1.2
+2027,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,1.2
+2028,Normal value,Units,Zimstat_ICDS_2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,1.2

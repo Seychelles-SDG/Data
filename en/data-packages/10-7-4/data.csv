@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2024,Normal value,Units,National_Migration_Policy,"Number of refugees per 100,000 population, by country of origin [10.7.4]",,Percent,100

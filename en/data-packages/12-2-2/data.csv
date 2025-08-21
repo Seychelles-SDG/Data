@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2023,Normal value,Units,RBZ_MMCZ_FGR_Zimstats,"Domestic material consumption per capita, by type of raw material [8.4.2,12.2.2]",,Metric Tons,0.385
+2024,Normal value,Units,RBZ_MMCZ_FGR_Zimstats,"Domestic material consumption per capita, by type of raw material [8.4.2,12.2.2]",,Metric Tons,0.21
+2023,Normal value,Units,RBZ_MMCZ_FGR_Zimstats,"Domestic material consumption per unit of GDP [8.4.2,12.2.2]",,Metric Tons,0.254
+2024,Normal value,Units,RBZ_MMCZ_FGR_Zimstats,"Domestic material consumption per unit of GDP [8.4.2,12.2.2]",,Metric Tons,117.0
+2023,Normal value,Units,RBZ_MMCZ_FGR_Zimstats,"Domestic material consumption [8.4.2,12.2.2]",,Metric Tons,18576062.7
+2024,Normal value,Units,RBZ_MMCZ_FGR_Zimstats,"Domestic material consumption [8.4.2,12.2.2]",,Metric Tons,15287153.38

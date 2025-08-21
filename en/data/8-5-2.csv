@@ -1,1 +1,37 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2019,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,,Percent,19.1
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,,Percent,20.7
+2024,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,,Percent,20.5
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,Female,Percent,22.8
+2024,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,Female,Percent,22.5
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,Male,Percent,19.2
+2024,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,Male,Percent,19.4
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Bulawayo,,Percent,22.016668167203555
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Bulawayo,Female,Percent,37.487781641499545
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Bulawayo,Male,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Harare,,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Harare,Male,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Manicaland,,Percent,11.572668772977703
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Manicaland,Female,Percent,29.20078406414178
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Manicaland,Male,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Mashonaland Central,,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Mashonaland Central,Female,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Mashonaland Central,Male,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Masholanad East,,Percent,9.393069621868705
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Masholanad East,Female,Percent,20.206243830147734
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Masholanad East,Male,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Midlands,,Percent,9.39086718263322
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Midlands,Female,Percent,18.817845632421022
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Midlands,Male,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Matabeland North,,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Matabeland North,Female,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Matabeland North,Male,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Matabeland South,,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Matabeland South,Female,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Matabeland South,Male,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Masvingo,,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Masvingo,Female,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Masvingo,Male,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Mashonaland West,,Percent,6.043063438707879
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Mashonaland West,Female,Percent,0.0
+2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",Mashonaland West,Male,Percent,8.573055589970597

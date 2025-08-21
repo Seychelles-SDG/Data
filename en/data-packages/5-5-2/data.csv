@@ -1,1 +1,4 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2014,Normal value,Units,Labour_Force_Survey,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,27.6
+2017,Normal value,Units,Labour_Force_Survey,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,31.0
+2023,Normal value,Units,Labour_Force_Survey,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,34.0

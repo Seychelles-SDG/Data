@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2023,Normal value,Units,Ministry_of_Lands,Number of local breeds kept in the country [2.5.1],,Number,37
+2024,Normal value,Units,Ministry_of_Lands,Number of local breeds kept in the country [2.5.1],,Number,37
+2023,Normal value,Units,Ministry_of_Lands,Plant genetic resources accessions stored ex situ (number) [2.5.1],,Number,6300
+2024,Normal value,Units,Ministry_of_Lands,Plant genetic resources accessions stored ex situ (number) [2.5.1],,Number,7554

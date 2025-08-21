@@ -1,1 +1,16 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2017,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,52
+2019,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,42
+2020,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,72
+2021,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,61
+2023,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,26
+2017,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,52
+2019,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,42
+2020,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,75
+2021,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,71
+2023,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,41
+2017,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,50
+2019,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,27
+2020,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,65
+2021,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,42
+2023,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,38

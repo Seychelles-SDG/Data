@@ -1,1 +1,4 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Value
+2021,Normal value,Units,2021_Child_Poverty_in_Zimbabwe,Proportion of children living in child-specific multidimensional poverty [1.2.2],,under 18 years old,,Percent,60.7
+2021,Normal value,Units,2021_Child_Poverty_in_Zimbabwe,Proportion of children living in child-specific multidimensional poverty [1.2.2],,under 18 years old,Rural,Percent,37.6
+2021,Normal value,Units,2021_Child_Poverty_in_Zimbabwe,Proportion of children living in child-specific multidimensional poverty [1.2.2],,under 18 years old,Urban,Percent,69.2

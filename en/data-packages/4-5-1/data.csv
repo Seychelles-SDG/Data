@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2019,Normal value,Units,ZDHS_2023_24,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]",,Index,1.0
+2024,Normal value,Units,ZDHS_2023_24,"Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]",,Index,1.0
+2019,Normal value,Units,ZDHS_2023_24,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1],,Index,1.19
+2024,Normal value,Units,ZDHS_2023_24,Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1],,Index,0.91

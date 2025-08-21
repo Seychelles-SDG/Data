@@ -1,1 +1,6 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
+2020,Normal value,Units,MOFEDIP,"Total official flows for infrastructure, by recipient countries [9.a.1]",,USD,21511425
+2021,Normal value,Units,MOFEDIP,"Total official flows for infrastructure, by recipient countries [9.a.1]",,USD,20124252
+2022,Normal value,Units,MOFEDIP,"Total official flows for infrastructure, by recipient countries [9.a.1]",,USD,32798962
+2023,Normal value,Units,MOFEDIP,"Total official flows for infrastructure, by recipient countries [9.a.1]",,USD,28243713
+2024,Normal value,Units,MOFEDIP,"Total official flows for infrastructure, by recipient countries [9.a.1]",,USD,12735178
