@@ -1,18 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
-2019,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,48.7
-2022,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,19.1
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,56.6
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Rural,Percent,52.2
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Urban,Percent,64.8
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Female,,Percent,57.4
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,,Percent,55.7
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Bulawayo,,,Percent,81.9
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Harare,,,Percent,57.2
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Manicaland,,,Percent,48.9
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Mashonaland Central,,,Percent,58.5
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Masholanad East,,,Percent,52.9
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Midlands,,,Percent,52.8
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Matabeland North,,,Percent,65.5
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Matabeland South,,,Percent,75.0
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Masvingo,,,Percent,49.7
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],Mashonaland West,,,Percent,58.2
+Year,Value

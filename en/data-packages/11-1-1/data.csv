@@ -1,15 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
-2019,Normal value,Units,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,Proportion of urban population living in slums [11.1.1],,Percent,0.33
-2022,Normal value,Units,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,Proportion of urban population living in slums [11.1.1],,Percent,1.1
-2023,Normal value,Units,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,Proportion of urban population living in slums [11.1.1],,Percent,80.0
-2024,Normal value,Units,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,Proportion of urban population living in slums [11.1.1],,Percent,90.0
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Bulawayo,Percent,0.26
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Harare,Percent,1.45
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Manicaland,Percent,1.24
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Mashonaland Central,Percent,1.35
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Masholanad East,Percent,1.37
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Midlands,Percent,0.83
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Matabeland North,Percent,0.85
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Matabeland South,Percent,1.91
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Masvingo,Percent,0.26
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of urban population living in slums [11.1.1],Mashonaland West,Percent,1.14
+Year,Value

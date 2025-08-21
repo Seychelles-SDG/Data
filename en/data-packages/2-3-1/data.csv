@@ -1,6 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
-2023,Normal value,Units,CLAFA_2024,Productivity of large-scale food producers [2.3.1],,Constant USD,103449445.0
-2024,Normal value,Units,CLAFA_2024,Productivity of large-scale food producers [2.3.1],,Constant USD,86396065.0
-2015,Normal value,Units,ZimLac,Productivity of small-scale food producers [2.3.1],,Constant USD,0.28
-2023,Normal value,Units,ZimLac,Productivity of small-scale food producers [2.3.1],,Constant USD,116.0
-2024,Normal value,Units,ZimLac,Productivity of small-scale food producers [2.3.1],,Constant USD,88.0
+Year,Value

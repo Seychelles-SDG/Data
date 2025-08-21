@@ -1,18 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
-2015,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,26.8
-2019,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,23.5
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,27.0
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,28.8
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,23.5
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,24.6
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,29.6
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Bulawayo,,,Percent,21.5
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Harare,,,Percent,26.1
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Manicaland,,,Percent,30.9
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Mashonaland Central,,,Percent,29.9
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Masholanad East,,,Percent,27.0
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Midlands,,,Percent,27.3
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Matabeland North,,,Percent,22.8
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Matabeland South,,,Percent,32.8
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Masvingo,,,Percent,24.5
-2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],Mashonaland West,,,Percent,24.3
+Year,Value

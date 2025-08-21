@@ -1,8 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
-2014,Normal value,Units,MPSLSW_administrative_records_National_Employment_Councils_NEC_report,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 employees",0.05
-2015,Normal value,Units,MPSLSW_administrative_records_National_Employment_Councils_NEC_report,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 employees",412.0
-2017,Normal value,Units,MPSLSW_administrative_records_National_Employment_Councils_NEC_report,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 employees",384.0
-2019,Normal value,Units,MPSLSW_administrative_records_National_Employment_Councils_NEC_report,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 employees",355.0
-2021,Normal value,Units,MPSLSW_administrative_records_National_Employment_Councils_NEC_report,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 employees",325.0
-2023,Normal value,Units,MPSLSW_administrative_records_National_Employment_Councils_NEC_report,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 employees",305.0
-2024,Normal value,Units,MPSLSW_administrative_records_National_Employment_Councils_NEC_report,Fatal occupational injuries among employees (rate) [8.8.1],,"Per 100,000 employees",55.0
+Year,Value

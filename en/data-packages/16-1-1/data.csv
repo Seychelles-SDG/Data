@@ -1,9 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2015,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,,Number,73
-2022,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,,Number,1085
-2023,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,,Number,1086
-2024,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,,Number,1115
-2023,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,Female,Number,252
-2024,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,Female,Number,254
-2023,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,Male,Number,834
-2024,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,Male,Number,861
+Year,Value

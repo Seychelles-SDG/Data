@@ -1,6 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2024,Normal value,Units,Zimstat_MICS_2019,"Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law [10.3.1, 16.b.1]",,,Percent,1.0
-2019,Normal value,Units,Zimstat_MICS_2019,"Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law [10.3.1, 16.b.1]",,Female,Percent,25.2
-2034,Normal value,Units,Zimstat_MICS_2019,"Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law [10.3.1, 16.b.1]",,Female,Percent,25.2
-2019,Normal value,Units,Zimstat_MICS_2019,"Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law [10.3.1, 16.b.1]",,Male,Percent,25.9
-2035,Normal value,Units,Zimstat_MICS_2019,"Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law [10.3.1, 16.b.1]",,Male,Percent,25.9
+Year,Value

@@ -1,11 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Value
-2024,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,,"Per 1,000 population",2.0
-2024,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,Rural,"Per 1,000 population",2.0
-2024,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,Urban,"Per 1,000 population",1.0
-2015,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,,"Per 1,000 population",110.0
-2017,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,,"Per 1,000 population",77.6
-2019,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,,"Per 1,000 population",108.0
-2022,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,,"Per 1,000 population",86.7
-2024,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,,"Per 1,000 population",111.0
-2024,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,Rural,"Per 1,000 population",147.0
-2024,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,Urban,"Per 1,000 population",69.0
+Year,Value

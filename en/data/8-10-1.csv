@@ -1,5 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
-2022,Normal value,Units,Reserve_Bank_Of_Zimbabwe,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Percent,0.463
-2023,Normal value,Units,Reserve_Bank_Of_Zimbabwe,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Percent,5.0
-2022,Normal value,Units,Reserve_Bank_Of_Zimbabwe,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Percent,1.062
-2023,Normal value,Units,Reserve_Bank_Of_Zimbabwe,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Percent,6.0
+Year,Value

@@ -1,4 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
-2023,Normal value,Units,RBZ_MMCZ_FGR_Zimstat,"Material footprint per capita [8.4.1, 12.2.1]",,Percent,1.228
-2023,Normal value,Units,RBZ_MMCZ_FGR_Zimstat,"Material footprint per unit of GDP [8.4.1, 12.2.1]",,Percent,0.588
-2023,Normal value,Units,RBZ_MMCZ_FGR_Zimstat,"Material footprint [8.4.1, 12.2.1]",,Percent,18576062.7
+Year,Value

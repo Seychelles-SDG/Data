@@ -1,7 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2017,Normal value,Units,Zimstat_ICDS_2017,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,,,Percent,94.3
-2024,Normal value,Units,Zimstat_ICDS_2017,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,,,Percent,75.0
-2019,Normal value,Units,ZDHS_2023_24,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 to 49 years old,Percent,92.1
-2024,Normal value,Units,ZDHS_2023_24,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 to 49 years old,Percent,93.5
-2019,Normal value,Units,ZDHS_2023_24,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 to 49 years old,Percent,89.4
-2024,Normal value,Units,ZDHS_2023_24,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 to 49 years old,Percent,92.7
+Year,Value

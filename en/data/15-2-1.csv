@@ -1,9 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
-2023,Normal value,Units,FCZ,Above-ground biomass in forest (tonnes) [15.2.1],,Percent,95.56
-2024,Normal value,Units,FCZ,Above-ground biomass in forest (tonnes) [15.2.1],,Percent,95.56
-2020,Normal value,Units,FCZ,Proportion of forest area with a long-term management plan [15.2.1],,Percent,17.0
-2023,Normal value,Units,FCZ,Proportion of forest area with a long-term management plan [15.2.1],,Percent,17.0
-2024,Normal value,Units,FCZ,Proportion of forest area with a long-term management plan [15.2.1],,Percent,17.0
-2020,Normal value,Units,FCZ,Proportion of forest area within legally established protected areas [15.2.1],,Hectares,1848200.0
-2023,Normal value,Units,FCZ,Proportion of forest area within legally established protected areas [15.2.1],,Hectares,1848200.0
-2024,Normal value,Units,FCZ,Proportion of forest area within legally established protected areas [15.2.1],,Hectares,1848200.0
+Year,Value

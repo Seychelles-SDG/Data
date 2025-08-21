@@ -1,7 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Value
-2014,Normal value,Units,"ZIMSTAT_,National_Account_Report",Annual growth rate of real GDP per employed person [8.2.1],,Percent,5.1
-2015,Normal value,Units,"ZIMSTAT_,National_Account_Report",Annual growth rate of real GDP per employed person [8.2.1],,Percent,5.027122029512384
-2016,Normal value,Units,"ZIMSTAT_,National_Account_Report",Annual growth rate of real GDP per employed person [8.2.1],,Percent,2.775098594381077
-2017,Normal value,Units,"ZIMSTAT_,National_Account_Report",Annual growth rate of real GDP per employed person [8.2.1],,Percent,3.815791821490322
-2018,Normal value,Units,"ZIMSTAT_,National_Account_Report",Annual growth rate of real GDP per employed person [8.2.1],,Percent,2.766771232516845
-2024,Normal value,Units,"ZIMSTAT_,National_Account_Report",Annual growth rate of real GDP per employed person [8.2.1],,Percent,1.7
+Year,Value

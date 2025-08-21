@@ -1,8 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2015,Normal value,Units,ZIMSTAT_women_and_men_report,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,,Percent,31.9
-2019,Normal value,Units,ZIMSTAT_women_and_men_report,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,,Percent,37.7
-2023,Normal value,Units,ZIMSTAT_women_and_men_report,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,,Percent,37.0
-2019,Normal value,Units,ZDHS_2023_24,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,20 to 24 years old,Percent,5.4
-2022,Normal value,Units,ZDHS_2023_24,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,20 to 24 years old,Percent,16.2
-2023,Normal value,Units,ZDHS_2023_24,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,20 to 24 years old,Percent,18.9
-2024,Normal value,Units,ZDHS_2023_24,Proportion of elected seats held by women in deliberative bodies of local government [5.5.1],,Female,20 to 24 years old,Percent,32.8
+Year,Value

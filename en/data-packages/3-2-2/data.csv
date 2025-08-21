@@ -1,18 +1,1 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
-2019,Normal value,Units,ZDHS_2023_24,Neonatal mortality rate [3.2.2],,,,"Per 1,000 live births",32.0
-2022,Normal value,Units,ZDHS_2023_24,Neonatal mortality rate [3.2.2],,,,"Per 1,000 live births",9.5
-2024,Normal value,Units,ZDHS_2023_24,Neonatal mortality rate [3.2.2],,,,"Per 1,000 live births",37.0
-2024,Normal value,Units,ZDHS_2023_24,Neonatal mortality rate [3.2.2],,,Rural,"Per 1,000 live births",38.0
-2024,Normal value,Units,ZDHS_2023_24,Neonatal mortality rate [3.2.2],,,Urban,"Per 1,000 live births",35.0
-2024,Normal value,Units,ZDHS_2023_24,Neonatal mortality rate [3.2.2],,Female,,"Per 1,000 live births",32.0
-2024,Normal value,Units,ZDHS_2023_24,Neonatal mortality rate [3.2.2],,Male,,"Per 1,000 live births",41.0
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Bulawayo,,,"Per 1,000 live births",8.1
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Harare,,,"Per 1,000 live births",9.0
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Manicaland,,,"Per 1,000 live births",9.2
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Mashonaland Central,,,"Per 1,000 live births",10.7
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Masholanad East,,,"Per 1,000 live births",11.1
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Midlands,,,"Per 1,000 live births",10.2
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Matabeland North,,,"Per 1,000 live births",6.0
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Matabeland South,,,"Per 1,000 live births",5.3
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Masvingo,,,"Per 1,000 live births",9.9
-2022,Normal value,Units,Zimstat_2022_PHC,Neonatal mortality rate [3.2.2],Mashonaland West,,,"Per 1,000 live births",9.8
+Year,Value

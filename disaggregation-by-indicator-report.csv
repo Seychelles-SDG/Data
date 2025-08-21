@@ -1,4 +1,2 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"OBS_STATUS, UNIT_MULT, URBANISATION, SEX, AGE",5
-#2-2-4,"OBS_STATUS, UNIT_MULT, REF_AREA, URBANISATION",4
-#8-9-2,"OBS_STATUS, UNIT_MULT",2
+#1-1-1,Group,1
