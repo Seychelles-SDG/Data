@@ -43,8 +43,8 @@ inputs:
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
   - class: InputSdmxMl_Structure
-    source: https://sc.sdmx.afdb.org/ns-ws/rest/dataflow/SC1/DF_SDG_TEST/1.0/?detail=Full&references=Descendants
-    dsd: https://sc.sdmx.afdb.org/ns-ws/rest/data/SC1,DF_SDG_TEST,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    source: https://sc.sdmx.afdb.org/ns-ws/rest/data/SC1,DF_SDG_TEST,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    dsd: https://sc.sdmx.afdb.org/ns-ws/rest/dataflow/SC1/DF_SDG_TEST/1.0/?detail=Full&references=DescendantsD
     dimension_map:
       REF_AREA|690: ''
     drop_dimensions:
